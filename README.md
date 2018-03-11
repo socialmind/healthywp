@@ -1,8 +1,11 @@
-# WordPress Plug-in Observatory
+# WordPress Plug-In Observatory (WOPLOB)
 
-Welcome to WordPress Plug-in Observatory project. We aim in creating a infrastructure that will combine state of the art software metrics with crowd sourced user experience to an online knowledge base that will help the WordPress enthusiasts and / or professionals built effective, secure and "healthy" websites.
+Welcome to WordPress Plug-in Observatory project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
 
-The project was selected for the [5th round of Mozilla Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#wordpress-plugin-observatory) program which will run from February to June 2018. 
+## Elevator Pitch
+
+We are building a platform which will crowd source good and bad experiences on using or combining plug-ins in WordPress installations. The analysis of those experiences will be available to the users via a user friendly, search engine, allowing them to build effective and secure WordPress websites.
+
 
 ## Summary
 
@@ -14,6 +17,6 @@ We are creating a platform which will crowd source experience on using or combin
 
 Nothing to report yet!
 
-## Changelog
+## Highlights
 
-Nothing to report yet!
+- The project was selected for the [5th round of Mozilla Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#wordpress-plugin-observatory) program.
