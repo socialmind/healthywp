@@ -64,7 +64,7 @@ _There is no chaos, there is harmony._
 
 _There is no death, there is the Force._
 
-_(Jedi Code, [Wookieepedia](http://starwars.wikia.com/wiki/Jedi_Code))_
+_(Jedi Code, via [Wookieepedia](http://starwars.wikia.com/wiki/Jedi_Code))_
 
 ### [Business Model - Open Canvas](https://docs.google.com/presentation/d/1mA3lTrXo4gmmaws6mnya8IquVIEC9OK9JcxgD829RUg/edit) 
 
