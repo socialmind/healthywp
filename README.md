@@ -26,18 +26,27 @@ We will be honored to work with you!
 
 WordPress Plug-In Observatory is an Open Source Software project, therefore, it will be difficult __not to find__ a role that suits your skill set.
 
-**I __have__ a technical background:** We are working in creating a WordPress plug-in that will allow the users of our platform to send us their feedback. Moreover, in the same project we will be creating the platform that will host the data from the users. 
+### I __have__ a technical background:
+
+We are working in creating a WordPress plug-in that will allow the users of our platform to send us their feedback. Moreover, in the same project we will be creating the platform that will host the data from the users. 
 
 So if you have experience in back-end development, WordPress plug-in development or web development in general, your expertise will be invaluable :)
 
-**I __don't__ have a technical background:** Great! Non-tech contributors are equally valuable for an open source project since they can help with [a great deal of things](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)! 
+### I __don't__ have a technical background:
+
+Great! Non-tech contributors are equally valuable for an open source project since they can help with [a great deal of things](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)! 
 
 If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawyer, a WordPress advocate or user, please consider join us. You can really make a difference to our project's evolution.
 
 
 ## Where to go next?
 
+- Contributor's guidelines:
+- Project Roadmap:
+- Code of conduct:
+- Business Model - Open Canvas: 
 
+## Contact us
 
 ## Highlights
 
