@@ -11,7 +11,7 @@ We are building a platform which primarily aims in crowd sourcing good and bad e
 
 ## Why?
 
-WordPress platform has become a standard choice when it comes to Content Management Systems (CMS). Is is a Free/Libre Open Source Software (FLOSS) project which means is can be freely downloaded, used, altered and even sold (under the term of its <a href="https://wordpress.org/about/license/" target="_blank">license</a>). 
+WordPress platform has become a standard choice when it comes to Content Management Systems (CMS). Is is a Free/Libre Open Source Software (FLOSS) project which means is can be freely downloaded, used, altered and even sold (under the term of its <a href="https://wordpress.org/about/license/" target="_top">license</a>). 
 
 Moreover, a huge community built around it is responsible for more than 50.000 plug-ins, available also as FLOSS. Unfortunately not all WordPress plug-ins are “playing well” with each other, nor are properly maintained.
 
