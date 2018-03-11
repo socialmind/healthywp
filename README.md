@@ -54,12 +54,12 @@ An outline and plan for the work ahead.
 
 ### [Code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
 
-> There is no emotion, there is peace.
-> There is no ignorance, there is knowledge.
-> There is no passion, there is serenity.
-> There is no chaos, there is harmony.
-> There is no death, there is the Force.
-
+> There is no emotion, there is peace.  
+> There is no ignorance, there is knowledge.  
+> There is no passion, there is serenity.  
+> There is no chaos, there is harmony.  
+> There is no death, there is the Force.  
+>  
 >(Jedi Code, via [Wookieepedia](http://starwars.wikia.com/wiki/Jedi_Code))_
 
 ### [Business Model - Open Canvas](https://docs.google.com/presentation/d/1mA3lTrXo4gmmaws6mnya8IquVIEC9OK9JcxgD829RUg/edit) 
