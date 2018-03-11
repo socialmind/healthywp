@@ -52,7 +52,7 @@ Important information about the project.
 
 An outline and plan for the work ahead.  
 
-### [Code of conduct](#) 
+### [Code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
 
 _There is no emotion, there is peace._
 
