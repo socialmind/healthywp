@@ -38,15 +38,41 @@ Great! Non-tech contributors are equally valuable for an open source project sin
 
 If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawyer, a WordPress advocate or user, please consider join us. You can really make a difference to our project's evolution.
 
-
 ## Where to go next?
 
-- Contributor's guidelines:
-- Project Roadmap:
-- Code of conduct:
-- Business Model - Open Canvas: 
+Following you'll find a list of project resources which provide a deeper understanding of WordPress Plug-In Observatory in terms of goals, organization of work and community, etc.
+ 
+### [Contributor's guidelines](#) 
+
+Set of guidelines for contributing to WordPress Plug-In Observatory.
+
+### [Project Wiki](https://github.com/socialmind/wordpress-plugin-observatory/wiki)
+
+Important information about the project. 
+
+### [Project Roadmap](https://github.com/socialmind/wordpress-plugin-observatory/wiki/Roadmap)
+
+An outline and plan for the work ahead.  
+
+### [Code of conduct](#) 
+
+_There is no emotion, there is peace._ 
+_There is no ignorance, there is knowledge._
+_There is no passion, there is serenity._
+_There is no chaos, there is harmony._
+_There is no death, there is the Force._
+
+_(via [Wookieepedia](http://starwars.wikia.com/wiki/Jedi_Code))_
+
+### [Business Model - Open Canvas](https://docs.google.com/presentation/d/1mA3lTrXo4gmmaws6mnya8IquVIEC9OK9JcxgD829RUg/edit) 
+
+ Defines project's goals, strategy, and needs for resources.
 
 ## Contact us
+
+If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](https://github.com/socialmind/wordpress-plugin-observatory/issues) at this Github repository because then we can get right on it. 
+
+You can also contact Apostolos by e-mail (kritikos AT socialmind DOT gr) or on [twitter](http://www.twitter.com/akritiko).
 
 ## Highlights
 
