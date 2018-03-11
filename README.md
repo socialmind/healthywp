@@ -1,4 +1,4 @@
-# WordPress Plug-In Observatory (WOPLOB)
+# WordPress Plug-In Observatory (#woplob)
 
 Welcome to WordPress Plug-in Observatory project. We are thrilled you stopped by. 
 
