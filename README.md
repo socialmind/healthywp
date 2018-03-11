@@ -11,15 +11,33 @@ We are building a platform which primarily aims in crowd sourcing good and bad e
 
 ## Why?
 
-WordPress platform has become a standard choice when it comes to Content Management Systems (CMS). Is is a Free/Libre Open Source Software (FLOSS) project which means is can be freely downloaded, used, altered and even sold (under the term of its <a href="https://wordpress.org/about/license/" target="_top">license</a>). 
+WordPress platform has become a standard choice when it comes to Content Management Systems (CMS). Is is a Free/Libre Open Source Software (FLOSS) project which means is can be freely downloaded, used, altered and even sold (under the term of its [license](https://wordpress.org/about/license/)).
 
-Moreover, a huge community built around it is responsible for more than 50.000 plug-ins, available also as FLOSS. Unfortunately not all WordPress plug-ins are “playing well” with each other, nor are properly maintained.
+Moreover, a huge community built around it is responsible for more than 50.000 plug-ins, available also as FLOSS. Unfortunately not all WordPress plug-ins are “playing well” with each other, nor are properly maintained. Those conflicts sometimes extend to incompatibility with the WordPress version itself or the WordPress theme that is being used.
 
-We are creating a platform which will crowd source experience on using or combining plug-ins in WordPress installations. In addition, with the application of state of the art software metrics, we will provide a preliminary study on the structure of the source code of the plug-ins. “WordPress Plug-in Observatory” will be published as FLOSS  with the hope that, with the help of Mozilla Network, will evolve to a high quality community of WordPress users that will help to the development of the platform and the data collection.
+## Proposed solution!
 
-## Project Resources
+We are creating a platform with the aim of crowd-sourcing experience on using or combining plug-ins in WP installations. In addition, we are going to combine those data with the application of state of the art software metrics to provide a preliminary study on the structure of the source code of the plug-ins. This way we provide valuable feedback to WP developers and WP end-users about the effectiveness and security of their installations. 
 
-Nothing to report yet!
+
+## Wanna help?
+
+We will be honored to work with you! 
+
+WordPress Plug-In Observatory is an Open Source Software project, therefore, it will be difficult __not to find__ a role that suits your skill set.
+
+__I <u>have</u> a technical background:__ We are working in creating a WordPress plug-in that will allow the users of our platform to send us their feedback. Moreover, in the same project we will be creating the platform that will host the data from the users. 
+
+So if you have experience in back-end development, WordPress plug-in development or web development in general, your expertise will be invaluable :)
+
+__I <u>don't</u> have a technical background:__ Great! Non-tech contributors are equally valuable for an open source project since they can help with [a great deal of things](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)! 
+
+If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawyer, a WordPress advocate or user, please consider join us. You can really make a difference to our project's evolution.
+
+
+## Where to go next?
+
+
 
 ## Highlights
 
