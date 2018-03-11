@@ -1,8 +1,6 @@
 # WordPress Plug-In Observatory (#woplob)
 
-Welcome to WordPress Plug-in Observatory project. We are thrilled you stopped by. 
-
-If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
+Welcome to WordPress Plug-in Observatory project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
 
 ## Elevator Pitch
 
