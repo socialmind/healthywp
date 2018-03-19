@@ -126,3 +126,8 @@ Once you think your patch is ready for commit, it’s time to find a committer t
 Another way to get feedback on your patch is to ask for feedback during the “open floor” at the end of the weekly core developer chat (see below). If you go this route, be sure to wait until the end of the meeting and not during the chat.
 
 Sometimes, tickets and patches don’t get the attention they need and linger in trac. In these cases, ping a component maintainer or committer and ask for feedback.
+
+## Attribution
+
+Contributing guidelines were adapted from Contribute with Code
+by [WordPress.org](https://make.wordpress.org/core/handbook/contribute/).
