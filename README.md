@@ -1,4 +1,6 @@
-# HealthyWP (previously known as WordPress Plug-in Observatory)
+# HealthyWP*
+
+_*  (previously known as WordPress Plug-in Observatory)_
 
 Welcome to WordPress Plug-in Observatory project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
 
