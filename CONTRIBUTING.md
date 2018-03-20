@@ -1,133 +1,108 @@
-# Contribute to the project
+# Contributing to HealthyWP
 
-## Why Contribute?
+## Overview
 
-It is vital for the future success of WordPress to have a healthy group of contributors. There are many open tickets containing great ideas and many ask why these great ideas have not been implemented. The simple answer is that WordPress relies on people like you to turn those ideas into reality. WordPress is a user- and volunteer-driven project; every enhancement and each improvement depends on the community.
+This is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
 
-## We’re All Human
+## Roles and responsibilities
 
-When contributing to WordPress, it’s important to remember that everyone is human. We all come from varying backgrounds and speak a variety of languages. There are a number of roles within the core contributor community, ranging from bug gardeners to committers, and each helps move the development process forward. Contributors are easily accessible and, as a result, expect a high level of respect, which they in turn provide to the community-at-large.
+### Users
 
-As mentioned, one big difference between WordPress and other communities is that WordPress contributors are very accessible. Looking for a lead developer or committer? Ask them a question in a public channel on Slack. Don’t be afraid to approach folks, but keep in mind that contacting people is better through public channels than unsolicited DMs. In Slack, the best place to ask a question about core is #core, however there are several sub-channels that discuss specific parts of core. Don’t worry if you’re directed to another channel; we’re here to help!
+Users are community members who have a need for the project. They are the most important members of the community and without them the project would have no purpose. Anyone can be a user; there are no special requirements.
 
-One of the best places to find contributors is at WordCamps, where you shouldn’t hesitate to approach them. Some WordCamps host contributor days, which is the best time to find a contributor and ask for help.
+The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
 
-## Committers
+- evangelising about the project (e.g. a link on a website and word-of-mouth awareness raising)
+- informing developers of strengths and weaknesses from a new user perspective
+- providing moral support (a ‘thank you’ goes a long way)
+- providing financial support (the software is open source, but its developers need to eat)
 
-Alert:  This section needs to be expanded. Perhaps we should also include a link to Nacin’s post.
+Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the next section.
 
-Committers are a type of WordPress contributor who has earned the trust of the community and been given the keys to “commit” code to WordPress core. Committers use their judgement to commit their own code as well as code from other contributors.
+### Contributors
 
-## Component Maintainers
+Contributors are community members who contribute in concrete ways to the project. Anyone can become a contributor, and contributions can take many forms, as detailed in a separate document. There is no expectation of commitment to the project, no specific skill requirements and no selection process.
 
-WordPress is organized into a few dozen well-defined, functional areas called components. Many contributors take a particular interest in certain areas, whether it is maintaining the HTTP API, improving the Editor, or advancing the Customizer, among many others.
+In addition to their actions as users, contributors may also find themselves doing one or more of the following:
 
-Contributors that help maintain components are called, logically, component maintainers. These maintainers are vital to keeping WordPress development running as smoothly as possible. Maintainers can take on a number of tasks, including: triaging new tickets, furthering existing tickets, mentoring tasks, pitching new ideas, curating roadmaps, and providing feedback to other contributors. Longtime maintainers have a deep understanding of their area of core and are always seeking to mentor others to impart their knowledge.
+- supporting new users (existing users are often the best people to support new users)
+- reporting bugs
+- identifying requirements
+- providing graphics and web design
+- programming
+- assisting with project infrastructure
+- writing documentation
+- fixing bugs
+- adding features
 
-Want to help? Get started by following a component you’re interested in. Adjust your notifications here.
+Contributors engage with the project through the issue tracker and mailing list, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The developer mailing list is the most appropriate place to ask for help when making that first contribution.
 
-## The Repositories
+As contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership.
 
-WordPress primarily uses Subversion (SVN), a version control system managed by the Apache project, to manage changes to its codebase.
+### Committers
 
-The develop repository is available for download. This repository includes core unit tests, build scripts, and by default uses the unminified and unconcatenated Javascript. Everyone has read privileges to these repos.  For more information on the structure of this repository, see the The Code Repository (SVN).
+Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committership allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources. That is, they can make changes directly to project outputs, without having to submit changes via patches.
 
-It’s also possible to contribute to WordPress core using git. For more information about this process, see The Code Repository (Git).
+This does not mean that a committer is free to do what they want. In fact, committers have no more authority over the project than contributors. While committership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work continues to be reviewed by the community before acceptance in an official release. The key difference between a committer and a contributor is when this approval is sought from the community. A committer seeks approval after the contribution is made, rather than before.
 
-Please note: pull requests submitted to GitHub will not be reviewed or merged there. Please use Trac to submit your patches.
+Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project. The project employs various communication mechanisms to ensure that all contributions are reviewed by the community as a whole. By the time a contributor is invited to become a committer, they will have become familiar with the project’s various tools as a user and then as a contributor.
 
-## Patches
+Anyone can become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
 
-While it takes a developer with commit access (called a committer) to change the WordPress codebase, anyone can suggest a change in the form of a patch. A patch is a special text file that describes changes to code, by identifying the files and lines which are added, removed, and altered. It may also be referred to as a diff (after the Unix command to generate a differences file). Patches have the extension of either .patch or .diff (.diff is preferred).
+New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the project management committee (PMC; see below). Committer voting is one of the few activities that takes place on the project’s private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public mailing list. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.
 
-Patches are created using a working copy of WordPress trunk that has been checked out of one of the repositories above. Subversion and Git both keep a history of the code and provide a centralized repository so that committers do not overwrite each others’ changes. (A conflict occurs when a patch changes code that has since been modified.) For this system to work, each committer keeps a working copy of the same repository. Code is checked out as a local working copy, and then checked in (committed) to the centralized repository.
+Nominees may decline their appointment as a committer. However, this is unusual, as the project does not expect any specific time or resource commitment from its community members. The intention behind the role of committer is to allow people to contribute to the project more easily, not to tie them in to the project in any formal way.
 
-Contributors follow the same process, but they generate a patch that shows their changes, since they cannot modify the central repository directly. This patch can then be applied to the individual working copies of other contributors or committers, so it may be reviewed, tested, and potentially committed.
+It is important to recognise that commitership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the PMC (see next section) in extreme circumstances. However, under normal circumstances committership exists for as long as the committer wishes to continue engaging with the project.
 
-When writing a patch, it is important to always update to the latest version of trunk. Patches should never be written against a released version, such as a tag or branch, with very rare exceptions (e.g. during the preparation of point releases). Trunk is, however, a moving target, which can cause patches to become stale and require a refresh – they no longer apply properly, because code in the central repository no longer matches what the patch is attempting to change. Patches that alter a significant number of lines or files should generally be brought to the attention of committers sooner rather than later. [Link: Getting Your Patch Committed]
+A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
 
-## Local Development Overview
+### Project management committee (PMC)
 
-In order to contribute to core, we strongly recommend that you install a local instance of WordPress. With WordPress running on your machine, you’ll be able to make changes and test patches without interfering with a live site. There are a variety of ways you can configure a local dev environment. We have tutorials on the following methods: VVV, DesktopServer, MAMP, WampServer, XAMPP.
+The project management committee consists of those individuals identified as ‘project owners’ on the development site. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
 
-If you’re not sure which to choose, we recommend the VVV (sometimes referred to as Vagrant) method.
+Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private mailing list and its archives. This list is used for sensitive issues, such as votes for new committers and legal matters that cannot be discussed in public. It is never used for project management or planning.
 
-## Introduction to Trac
+Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
-Trac is open source software that the WordPress community uses as a bug tracker and project management tool. Using Trac, developers can browse source code history as well as manage bug reports and feature development.
+### PMC Chair
 
-Tickets are used for both bug reports and feature development, and may be created by anyone with a WordPress.org account.
+The PMC Chair is a single individual, voted for by the PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the PMC casts a two-thirds majority vote to remove them.
 
-Trac tickets are organized into components (see “Component Maintainers” above), and use keywords to identify further details of the ticket. If your ticket is ever labeled with a keyword you’re unfamiliar with, reference the complete list of Trac Workflow Keywords.
-Good First Bugs #Good First Bugs
+The PMC Chair has no additional authority over other members of the PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
 
-To make it easier for new contributors, some tickets have been marked as Good First Bugs, using the “good-first-bug” keyword. These tickets are not always the easiest to work on, but are self-contained and have support from the core team. Usually, the ticket has been investigated and a path forward has been decided. All that’s left is creating the final patch to commit. Tickets like these help get new contributors (like you!) comfortable with the process of contributing and working in both Trac and development environments.
+## Support
 
-## Submitting Tickets
+All participants in the community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
+Contribution process
 
-Everyone is encouraged to submit bug reports and feature requests directly to trac, but certain tickets are better than others. Here’s some advice on ensuring your ticket is well-formed:
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. The various ways of contributing are described in more detail in a separate document.
 
-    Summary – Write a clear summary that sums up exactly what you are reporting or requesting. As you write your summary, a list of related tickets will appear. If you see a ticket that is a duplicate of your issue or feature, there’s no need to file a new ticket. Read through the current ticket and verify that there is no additional information you can provide. If you think of something, add your comment.
-        Bad summary: “Media modal is broken!”
-        Good summary: “Media modal errors when ___ is clicked”
-    Description – When reporting a bug be as descriptive as possible. The more descriptive you are, the easier it will be for core contributors to assist you. If applicable, list the steps needed to reproduce the error. If you are submitting a feature request, include a thorough description of your idea, stating use cases and/or user experience improvements.
-    Keywords – Before submitting your ticket, ensure that you have used the keyword “needs-patch” or “needs-feedback” (see Trac Workflow Keywords [link] for more information) and set the appropriate component that your ticket applies to. This will help component maintainers as they garden tickets.
+The developer mailing list is the most appropriate place for a contributor to ask for help when making their first contribution.
 
-## Reporting Security Vulnerabilities
+## Decision making process
 
-WordPress developers do their best to prevent security issues, but from time-to-time they appear and need to be reported.
+Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the project contributors’ mailing list. Occasionally, sensitive discussion occurs on a private list.
 
-It is standard practice to responsibly and privately disclose security issues to the vendor – in this case, the WordPress core development team. WordPress contributors practice responsible disclosure when reporting issues to other vendors as well. Reporting issues responsibly, prior to publishing, gives the vendor time to fix a security vulnerability and minimize damage to users.
+In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
-In short, be courteous and aware before you file a ticket that might include a security vulnerability. Refer to the Reporting Security Vulnerabilities page of this handbook for instructions on how to responsibly report issues to the WordPress Security Team.
+## Lazy consensus
 
-## Your First Patch
+Decision making typically involves the following steps:
 
-Once you’ve made changes to your WordPress development environment and are happy with those changes, you’ll want to create a patch that can be attached to your trac ticket. There are many ways to do this.
+- Proposal
+- Discussion
+- Vote (if consensus is not reached through discussion)
+- Decision
 
-From command line in the SVN root directory (located in the wordpress-develop folder of your VVV instance) you can run this command to generate a patch: svn diff > 00000.patch
+Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should send an email to the project contributors’ list or submit a patch implementing the idea to the issue tracker (or version-control system if they have commit access). This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
 
-There are other, UI-based ways to create patches as well. SourceTree is an excellent alternative to using the command line. Josh Pollack has written a tutorial on how to create a patch using this method.
+In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
-WordPress development happens through our official SVN and GIT repositories. As a result, we do not monitor or accept pull requests (PRs) from GitHub. However, you can still create a patch from your git repository and attach the patch to your ticket. To do so:
+Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails.
 
-Alert: We need to add information on creating a Git patch here.
+For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
 
-## Researching History
+## Voting
 
-Sometimes you may find yourself in a ticket that has been open for many years. More often than not these tickets have patches that need a refresh. It’s important to know why code has changed and how the refresh needs to be handled. If you browse trunk you will see that you can view the code of each file that makes up WordPress.
-
-As an example, look at /wp-admin/media.php. If you follow the link you will see the url at the top of your browser looks similar to the file structure of WordPress. If you append ?annotate=blame to the url, the page will load with a new colored sidebar on the left. These are the changesets that have been made to the file. This will help you identify the reasoning the code has changed and allows you to find the ticket associated to better understand the conversation that resulted in the changes. (Usually looks like Fixes:xxxxx)
-
-## Unit Testing
-
-Alert: This section needs to be created. 
-
-## Patch Feedback
-
-When working with tickets and patches, feedback is always encouraged. If you have a question or comment about the direction a ticket or patch is going, add your comment to the ticket.
-
-As mentioned early on this page, WordPress is a global project with contributors from all backgrounds, so please be as respectful and courteous as possible with your feedback. The social norms that apply to your life may be very different than those of other contributors. In turn, be sure to consider how others give you feedback and keep in mind that their comments may come across in a different way than intended due to cultural or lingual differences.
-
-Don’t let this discourage you! From time-to-time, we all give and receive constructive feedback and may take it personally. It’s not personal. Contributors intention is to make WordPress better, just like you!
-
-## Patch Won’t Apply
-
-As mentioned earlier, older tickets often have attached patches that no longer apply to the current codebase. The older the ticket, the lower the likelihood that the associated patch will apply cleanly. If you find a ticket with a patch that does not apply, add the “needs-refresh” keyword to indicate this.
-
-Over time, code shifts around and sometimes these patches only need a bit of reorganization to apply. Other times, you may find code that has been refactored and needs an alternative solution for the proposed bug/enhancement. Once this has been done, create a new patch with the clean code and submit it to the ticket.
-
-(Speaking of refactoring code, the core team almost never takes patches that only refactor code. See the Code Refactoring page for more information..)
-
-## Commit Ready
-
-Once you think your patch is ready for commit, it’s time to find a committer to review it and commit it to WordPress core. The most appropriate reviewer for your code is usually the component maintainer [link] (see above), however any committer can review your patch and commit it.
-
-Another way to get feedback on your patch is to ask for feedback during the “open floor” at the end of the weekly core developer chat (see below). If you go this route, be sure to wait until the end of the meeting and not during the chat.
-
-Sometimes, tickets and patches don’t get the attention they need and linger in trac. In these cases, ping a component maintainer or committer and ask for feedback.
-
-## Attribution
-
-Contributing guidelines were adapted from Contribute with Code
-by [WordPress.org](https://make.wordpress.org/core/handbook/contribute/).
+Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making. A separate document on the voting within a meritocratic governance model describes in more detail how voting is conducted in projects following the practice established within the Apache Software Foundation.
