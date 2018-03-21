@@ -42,7 +42,7 @@ If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawye
 
 Following you'll find a list of project resources which provide a deeper understanding of WordPress Plug-In Observatory in terms of goals, organization of work and community, etc.
  
-### [Contributor's guidelines](#) 
+### [Contributor's guidelines](https://github.com/socialmind/wordpress-plugin-observatory/blob/master/CONTRIBUTING.md) 
 
 Set of guidelines for contributing to WordPress Plug-In Observatory.
 
@@ -54,7 +54,7 @@ Important information about the project.
 
 An outline and plan for the work ahead.  
 
-### [Code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
+### [Code of conduct](https://github.com/socialmind/wordpress-plugin-observatory/blob/master/Code-Of-Conduct.md) 
 
 > There is no emotion, there is peace.  
 > There is no ignorance, there is knowledge.  
