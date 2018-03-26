@@ -2,7 +2,7 @@
 
 _* previously known as WordPress Plug-in Observatory_
 
-Welcome to WordPress Plug-in Observatory project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
+Welcome to HealthyWP project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
 
 ## Elevator Pitch
 
@@ -24,7 +24,7 @@ We are creating a platform with the aim of crowd-sourcing experience on using or
 
 We will be honored to work with you! 
 
-WordPress Plug-In Observatory is an Open Source Software project, therefore, it will be difficult __not to find__ a role that suits your skill set.
+HealthyWP is an Open Source Software project, therefore, it will be difficult __not to find__ a role that suits your skill set.
 
 ### I __have__ a technical background:
 
@@ -40,11 +40,11 @@ If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawye
 
 ## Where to go next?
 
-Following you'll find a list of project resources which provide a deeper understanding of WordPress Plug-In Observatory in terms of goals, organization of work and community, etc.
+Following you'll find a list of project resources which provide a deeper understanding of HealthyWP in terms of goals, organization of work and community, etc.
  
 ### [Contributor's guidelines](https://github.com/socialmind/wordpress-plugin-observatory/blob/master/CONTRIBUTING.md) 
 
-Set of guidelines for contributing to WordPress Plug-In Observatory.
+Set of guidelines for contributing to HealthyWP.
 
 ### [Project Wiki](https://github.com/socialmind/wordpress-plugin-observatory/wiki)
 
