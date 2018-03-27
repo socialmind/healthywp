@@ -109,5 +109,4 @@ Not all decisions can be made using lazy consensus. Issues such as those affecti
 
 ## Attribution
 
-This Governance / Contributing model is adapted from OSS Watch available at: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-http://oss-watch.ac.uk/resources/meritocraticgovernancemodel
+This Governance / Contributing model is adapted from OSS Watch available at: http://oss-watch.ac.uk/resources/meritocraticgovernancemodel
