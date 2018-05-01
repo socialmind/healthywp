@@ -100,4 +100,19 @@ class Healthywp_Admin {
 
 	}
 
+	public function display_admin_page() {
+		add_menu_page(
+			'HealthyWP', //$page_title
+			'HealthyWP', //$menu_title
+			'manage_options', //$capability
+			'healthywp-admin', //$menu_slug
+			array($this, 'showPage'), //$function
+			'', //$icon_url
+			'81.0' //$position_sidebar_on_menu_from_top
+		);
+	}
+
+	public function showPage() {
+		include_once( 'partials/healthywp-admin-display.php' );
+	}
 }

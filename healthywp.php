@@ -16,7 +16,7 @@
  * Plugin Name:       Healthy WP
  * Plugin URI:        https://github.com/socialmind/healthywp
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Version:           0.5.0
  * Author:            Apostolos Kritikos
  * Author URI:        https://socialmind.gr/?lang=en
  * License:           GPL-2.0+
