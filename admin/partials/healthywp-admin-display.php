@@ -20,11 +20,21 @@ $plugins = get_plugins();
 
 <h1>HealthyWP :: Plug-in Observatory!</h1>
 <h3>this is where magic is going to happen</h3>
-<ul>
+<br><br>
 
-<?php foreach ($plugins as $plugin) {
-	echo "<li>" . $plugin['Name'] . "</li>";
-} ?>
+<h2>Step 1: Choose the plugin(s) that cause the conflict.</h2>
+<?php foreach ($plugins as $plugin) { ?>
+	<input type="checkbox" id="<?php echo($plugin['Name']); ?>" name="plugin">
+    <label for="<?php echo($plugin['Name']); ?>"><?php echo($plugin['Name']); ?></label><br>
+<?php } ?>
 
-</ul>
+<h2>Step 2: Describe the issue.</h2>
+<textarea rows="4" cols="50">
+...
+</textarea> 
+<br>
+
+<h2>Step 3: Submit!</h2>
+<button type="button">Tnx :)</button> 
+
 
