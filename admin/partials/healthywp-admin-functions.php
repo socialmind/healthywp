@@ -1,7 +1,8 @@
 <?php
 
 function getWPPlugins() {
-	$all_plugins = get_plugins();
+	
+	var_dump($all_plugins);
 	return $all_plugins;
 }
 

@@ -13,7 +13,7 @@ include_once('healthywp-admin-functions.php');
  * @subpackage Healthywp/admin/partials
  */
 
-$plugins = getWPPlugins();
+$plugins = get_plugins();
 ?>
 
 <!-- This file should primarily consist of HTML with a little bit of PHP. -->
