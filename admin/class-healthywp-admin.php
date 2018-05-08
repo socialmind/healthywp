@@ -129,12 +129,11 @@ class Healthywp_Admin {
 
 	public function healthywp_plugins_column( $column, $plugin_file ) {
 
-	  $status[0] = "<b><font color=\"green\">&#x25cf; Compatible</font></b>";
-	  $status[1] = "<b><font color=\"orange\">&#x25cf; Potentially Incompatible</font></b>";
-	  $status[2] = "<b><font color=\"red\">&#x25cf; Incompatible</font></b>";
+	  $thePlugin = plugin_dir_path($plugin_file);
+	  $textDomain = trim($thePlugin, '/');
 	  
 	  if ( 'healthywp' == $column ) {
-	    echo $status[array_rand($status, 1)];
+	    echo rankPlugin($textDomain);
 	  }
 	}
 }

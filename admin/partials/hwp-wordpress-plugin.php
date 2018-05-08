@@ -39,6 +39,12 @@ class WordPressPlugin
     private $title;
     /**  */
     private $authorName;
+    /** */
+    private $totalReports;
+    /** */
+    private $numberOfCompatiblePlugins;
+    /** */
+    private $numberOfIncompatiblePlugins;
 
     /**
      * Constructor
@@ -56,6 +62,13 @@ class WordPressPlugin
         $this->network = $network;
         $this->title = $title;
         $this->authorName = $authorName;
+
+        //XXX: Get from DB
+        $this->totalReports = 0;
+        //XXX: Get from DB
+        $this->numberOfCompatiblePlugins = 0;
+        //XXX: Get from DB
+        $this->numberOfIncompatiblePlugins = 0;
     }
 
     public function getName(){
@@ -145,5 +158,30 @@ class WordPressPlugin
     public function setAuthorName($authorName){
         $this->authorName = $authorName;
     }
+
+    public function getTotalReports(){
+        return $this->totalReports;
+    }
+
+    public function setTotalReports($totalReports){
+        $this->totalReports = $totalReports;
+    }
+
+    public function getNumberOfCompatiblePlugins(){
+        return $this->numberOfCompatiblePlugins;
+    }
+
+    public function setNumberOfCompatiblePlugins($numberOfCompatiblePlugins){
+        $this->numberOfCompatiblePlugins = $numberOfCompatiblePlugins;
+    }
+
+    public function getNumberOfIncompatiblePlugins(){
+        return $this->numberOfIncompatiblePlugins;
+    }
+
+    public function setNumberOfIncompatiblePlugins($numberOfIncompatiblePlugins){
+        $this->numberOfIncompatiblePlugins = $numberOfIncompatiblePlugins;
+    }
+
 }
 ?>
