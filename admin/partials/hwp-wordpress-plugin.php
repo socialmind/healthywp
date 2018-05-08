@@ -1,5 +1,4 @@
 <?php
-
 /**
  * WordPress Plugin Class
  *
@@ -147,5 +146,4 @@ class WordPressPlugin
         $this->authorName = $authorName;
     }
 }
-
 ?>

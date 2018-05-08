@@ -1,4 +1,5 @@
 <?php
+include_once('partials/hwp-helpers.php');
 
 /**
  * The admin-specific functionality of the plugin.
@@ -114,5 +115,26 @@ class Healthywp_Admin {
 
 	public function showPage() {
 		include_once( 'partials/healthywp-admin-display.php' );
+	}
+
+	public function healthywp_plugins_columns( $columns ) {
+	  $columns = array(
+      	'cb' => $columns['cb'],
+      	'healthywp' => __( 'HealthyWP' ),
+      	'name' => __( 'Plugin' ),
+      	'description' => __( 'Description' )
+      );
+	  return $columns;
+	}
+
+	public function healthywp_plugins_column( $column, $plugin_file ) {
+
+	  $status[0] = "<b><font color=\"green\">&#x25cf; Compatible</font></b>";
+	  $status[1] = "<b><font color=\"orange\">&#x25cf; Potentially Incompatible</font></b>";
+	  $status[2] = "<b><font color=\"red\">&#x25cf; Incompatible</font></b>";
+	  
+	  if ( 'healthywp' == $column ) {
+	    echo $status[array_rand($status, 1)];
+	  }
 	}
 }

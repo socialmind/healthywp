@@ -1,5 +1,4 @@
 <?php
-include_once('healthywp-admin-functions.php');
 
 /**
  * Provide a admin area view for the plugin
@@ -12,8 +11,6 @@ include_once('healthywp-admin-functions.php');
  * @package    Healthywp
  * @subpackage Healthywp/admin/partials
  */
-
-$plugins = get_plugins();
 ?>
 
 <!-- This file should primarily consist of HTML with a little bit of PHP. -->

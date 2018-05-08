@@ -156,6 +156,8 @@ class Healthywp {
 		$this->loader->add_action( 'admin_menu', $plugin_admin, 'display_admin_page' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
+		$this->loader->add_filter( 'manage_plugins_columns', $plugin_admin, 'healthywp_plugins_columns' );
+		$this->loader->add_action( 'manage_plugins_custom_column', $plugin_admin, 'healthywp_plugins_column', 10, 2);
 
 	}
 
