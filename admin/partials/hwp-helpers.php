@@ -9,17 +9,14 @@ $plugins = array();
 
 foreach ($plugins_list as $plugin) {
 	$thePlugin = new WordPressPlugin($plugin['Name'], $plugin['PluginURI'], $plugin['Version'], $plugin['Description'], $plugin['Author'], $plugin['AuthorURI'], $plugin['TextDomain'], $plugin['DomainPath'], $plugin['Network'], $plugin['Title'], $plugin['AuthorName']);
-	$plugins[] = $thePlugin;
-	
+	array_push($plugins, $thePlugin);
+	unset($thePlugin);
 }
-//var_dump($plugins);die;
 
 function findHealthyPluginByTextDomain($textDomain) {
-	global $plugins;
+	$plugins;
 	$found = false;
 	$theone;
-
-	var_dump($plugins);die;
 
 	foreach ($plugins as $plugin) {
 		if($plugin->getTextDomain() == $textDomain) {
@@ -36,6 +33,7 @@ function findHealthyPluginByTextDomain($textDomain) {
 
 function rankPlugin($textDomain) {
 	global $plugins;
+	var_dump($plugins);die;
 
 	$pluginCount = count($plugins['all']); 
 	$thePlugin = findHealthyPluginByTextDomain($textDomain);
@@ -54,5 +52,4 @@ function rankPlugin($textDomain) {
 		}
 	}*/
 }
-
 ?>
