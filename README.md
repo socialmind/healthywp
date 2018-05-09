@@ -1,5 +1,7 @@
 # HealthyWP*
 
+[![Gitter](https://badges.gitter.im/socialmind/healthywp.svg)](https://gitter.im/socialmind/healthywp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+
 ***
 
 ### Breaking News: 
