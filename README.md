@@ -88,7 +88,7 @@ An outline and plan for the work ahead.
 
 ## Contact us
 
-If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](https://github.com/healthywp/issues) at this Github repository because then we can get right on it. 
+If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](https://github.com/socialmind/healthywp/issues) at this Github repository because then we can get right on it. 
 
 You can also contact Apostolos by e-mail (kritikos AT socialmind DOT gr) or on [twitter](http://www.twitter.com/akritiko).
 
