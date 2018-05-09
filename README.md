@@ -22,20 +22,18 @@ _* previously known as WordPress Plug-in Observatory_
 
 Welcome to HealthyWP project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
 
-## Elevator Pitch
+## What is HealthyWP?
 
-We are building a platform which primarily aims in crowd sourcing good and bad experiences on using or combining plug-ins in WordPress installations. The analysis of those experiences will be available to the users via a user friendly, search engine, allowing them to build effective and secure WordPress websites.
+HealthyWP aims to become a platform for crowd sourcing good and bad experiences on using or combining plugins in WordPress installations. The analysis of those experiences will be available openly via a user friendly portal, enabling them to build more effective and secure WordPress websites.
+
+On a second level we intend on extending the platform to make use of state of the art software evaluation metrics to provide further information about the source code of the plugins themselves. This way we will help the authors of the plugins focus on usability, security and effectiveness as they extend or maintain them.
 
 
-## Why?
+## Why WordPress?
 
 WordPress platform has become a standard choice when it comes to Content Management Systems (CMS). Is is a Free/Libre Open Source Software (FLOSS) project which means is can be freely downloaded, used, altered and even sold (under the term of its [license](https://wordpress.org/about/license/)).
 
-Moreover, a huge community built around it is responsible for more than 50.000 plug-ins, available also as FLOSS. Unfortunately not all WordPress plug-ins are “playing well” with each other, nor are properly maintained. Those conflicts sometimes extend to incompatibility with the WordPress version itself or the WordPress theme that is being used.
-
-## Proposed solution!
-
-We are creating a platform with the aim of crowd-sourcing experience on using or combining plug-ins in WP installations. In addition, we are going to combine those data with the application of state of the art software metrics to provide a preliminary study on the structure of the source code of the plug-ins. This way we provide valuable feedback to WP developers and WP end-users about the effectiveness and security of their installations. 
+Moreover, a huge community built around it is responsible for more than 50.000 plugins, available also as FLOSS. Unfortunately not all WordPress plug-ins are “playing well” with each other, nor are properly maintained. Those conflicts sometimes extend to incompatibility with the WordPress version itself or the WordPress theme that is being used.
 
 
 ## Wanna help?
@@ -60,19 +58,19 @@ If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawye
 
 Following you'll find a list of project resources which provide a deeper understanding of HealthyWP in terms of goals, organization of work and community, etc.
  
-### [Contributor's guidelines](https://github.com/socialmind/wordpress-plugin-observatory/blob/master/CONTRIBUTING.md) 
+### [Contributor's guidelines](https://github.com/socialmind/healthywp/blob/master/CONTRIBUTING.md) 
 
 Set of guidelines for contributing to HealthyWP.
 
-### [Project Wiki](https://github.com/socialmind/wordpress-plugin-observatory/wiki)
+### [Project Wiki](https://github.com/socialmind/healthywp/wiki)
 
 Important information about the project. 
 
-### [Project Roadmap](https://github.com/socialmind/wordpress-plugin-observatory/wiki/Roadmap)
+### [Project Roadmap](https://github.com/socialmind/healthywp/wiki/Roadmap)
 
 An outline and plan for the work ahead.  
 
-### [Code of conduct](https://github.com/socialmind/wordpress-plugin-observatory/blob/master/Code-Of-Conduct.md) 
+### [Code of conduct](https://github.com/socialmind/healthywp/blob/master/Code-Of-Conduct.md) 
 
 > There is no emotion, there is peace.  
 > There is no ignorance, there is knowledge.  
@@ -88,10 +86,11 @@ An outline and plan for the work ahead.
 
 ## Contact us
 
-If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](https://github.com/socialmind/wordpress-plugin-observatory/issues) at this Github repository because then we can get right on it. 
+If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](https://github.com/healthywp/issues) at this Github repository because then we can get right on it. 
 
 You can also contact Apostolos by e-mail (kritikos AT socialmind DOT gr) or on [twitter](http://www.twitter.com/akritiko).
 
 ## Highlights
 
-- The project was selected for the [5th round of Mozilla Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#wordpress-plugin-observatory) program.
+- HealthyWP was featured on [Mozilla Global Sprint 2018](https://www.mozillapulse.org/entry/640).
+- HealthyWP was selected for the [5th round of Mozilla Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#wordpress-plugin-observatory) program.
