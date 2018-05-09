@@ -2,6 +2,8 @@
 
 _* previously known as WordPress Plug-in Observatory_
 
+![healthywp cover](http://apostolos.kritikos.me/wp-content/uploads/2018/05/2018-04-23_213018.0828970000.png)
+
 Welcome to HealthyWP project. We are thrilled you stopped by. If you are familiar with [WordPress](http://www.wordpress.org), the Content Management System that powers 30% of the web, consider lending us a hand ;)
 
 ## Elevator Pitch
