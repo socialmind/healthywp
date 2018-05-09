@@ -2,8 +2,8 @@
 
 ***
 
-## Breaking News: 
-## _HealthyWP is featured on Mozilla GLobal Sprint!_
+### Breaking News: 
+### _HealthyWP is featured on Mozilla GLobal Sprint!_
 
 HealthyWP is featured on Mozilla Global Sprint 2018 (10th & 11th May). Join us and learn more about our project's vision. Your contribution can really make a difference and we will be thrilled to have you :)
 
