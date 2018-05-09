@@ -1,9 +1,8 @@
 # HealthyWP*
 
 ***
-***
 
-## Join us at Mozilla Global Sprint 2018
+## Join us at #mozsprint 2018
 
 HealthyWP is featured on Mozilla Global Sprint 2018 (10th & 11th May). Join us and learn more about our project's vision. Your contribution can really make a difference and we will be thrilled to have you :)
 
@@ -14,7 +13,6 @@ HealthyWP is featured on Mozilla Global Sprint 2018 (10th & 11th May). Join us a
 - Via e-mail at: kritikos@socialmind.gr
 - or Contribute directly to THIS Github Project
 
-***
 ***
 
 ![healthywp cover](http://apostolos.kritikos.me/wp-content/uploads/2018/05/2018-04-23_213018.0828970000.png)
