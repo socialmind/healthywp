@@ -15,11 +15,11 @@ _* click the links to see the hours at your local timezone_
 
 __Thursday May 10th, 2018__
 
-[10:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-10/10:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours) - [17:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-10/17:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours)
+[10:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-10/10:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours)) - [17:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-10/17:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours))
 
 __Friday May 11th, 2018__
 
-[10:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-11/10:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours) - [17:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-11/17:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours)
+[10:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-11/10:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours)) - [17:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-11/17:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours))
 
 
 ~ COMMUNICATION CHANNELS ~ 
