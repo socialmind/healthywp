@@ -72,7 +72,7 @@ Following you'll find a list of project resources which provide a deeper underst
 
 Set of guidelines for contributing to HealthyWP.
 
-### [Project Wiki](https://github.com/socialmind/healthywp/wiki)
+### [Project Requirements + Documentation](https://github.com/socialmind/healthywp/wiki)
 
 Important information about the project. 
 

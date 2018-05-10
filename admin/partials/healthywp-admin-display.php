@@ -11,8 +11,9 @@
  * @package    Healthywp
  * @subpackage Healthywp/admin/partials
  */
-?>
 
+$plugins = get_plugins();
+?>
 <!-- This file should primarily consist of HTML with a little bit of PHP. -->
 
 <h1>HealthyWP :: Plug-in Observatory!</h1>
