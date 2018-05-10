@@ -10,40 +10,40 @@
  *
  * @package healthywp
  *
- * @description a class that handles the information of
- * WordPress plugins.
+ * @description this is an extended version of the WordPress plugin class that includes information
+ * from HealthyWP.
  *
  */
 
 class WordPressPlugin
 {
-    /**  */
+    /** The mane of the plugin. This is a WordPress property. */
     private $name;
-    /**  */
+    /** The unique resource identifier (URI) of the plugin. This is a WordPress property. */
     private $pluginURI;
-    /**  */
+    /** The version of the plugin. This is a WordPress property. */
     private $version;
-    /**  */
+    /** The description of the plugin. This is a WordPress property. */
     private $description;
-    /**  */
+    /** The author of the plugin. This is a WordPress property. */
     private $author;
-    /**  */
+    /** The plugin author's unique resource identifier (URI). This is a WordPress property. */
     private $authorURI;
-    /**  */
+    /** The text domain of the plugin. This is a WordPress property. */
     private $textDomain;
-    /**  */
+    /** The domain path of the plugin. This is a WordPress property. */
     private $domainPath;
-    /**  */
+    /** The network property of the plugin. This is a WordPress property. */
     private $network;
-    /**  */
+    /** The title of the plugin. This is a WordPress property. */
     private $title;
-    /**  */
+    /** The plugin author's name. This is a WordPress property. */
     private $authorName;
-    /** */
+    /** Total reports of the plugin. This is a HealthyWP property. */
     private $totalReports;
-    /** */
+    /** Number of compatible plugins reported. This is a HealthyWP property. */
     private $numberOfCompatiblePlugins;
-    /** */
+    /** Number of incompatible plugins reported. This is a HealthyWP property. */
     private $numberOfIncompatiblePlugins;
 
     /**
