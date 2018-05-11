@@ -36,7 +36,7 @@ class WordPressPlugin
     /** The network property of the plugin. This is a WordPress property. */
     private $network;
     /** The title of the plugin. This is a WordPress property. */
-    private $title;
+    private $title; 
     /** The plugin author's name. This is a WordPress property. */
     private $authorName;
     /** Total reports of the plugin. This is a HealthyWP property. */
