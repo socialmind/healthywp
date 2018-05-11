@@ -101,6 +101,7 @@ class Healthywp_Admin {
 
 	}
 
+	/** Generates the HealthyWP menu to the administration dashboard */
 	public function display_admin_page() {
 		add_menu_page(
 			'HealthyWP', //$page_title
@@ -113,31 +114,36 @@ class Healthywp_Admin {
 		);
 	}
 
+	/** Generates the HealthyWP plugin's page to the administration dashboard */
 	public function showPage() {
 		include_once( 'partials/healthywp-admin-display.php' );
 	}
 
+	/** Creates a custom made column to WordPress plugins' page that shows the HealthyWP ranking (compatible, possible incompatible, incompatible) */
 	public function healthywp_plugins_columns( $columns ) {
 	  $columns = array(
       	'cb' => $columns['cb'],
-      	'healthywp' => __( 'HealthyWP' ),
+      	//'healthywp' => __( 'HealthyWP' ),
       	'name' => __( 'Plugin' ),
       	'description' => __( 'Description' )
       );
 	  return $columns;
 	}
 
+	/** 
+	 * Fills the HealthyWP ranking (compatible, possible incompatible, incompatible) to WordPress plugins' page
+	 */
 	public function healthywp_plugins_column( $column, $plugin_file ) {
 
-		$thePlugin = plugin_dir_path($plugin_file);
-		$textDomain = trim($thePlugin, '/');
+		//$thePlugin = plugin_dir_path($plugin_file);
+		//$textDomain = trim($thePlugin, '/');
 
 		//$status[0] = "<b><font color=\"green\">&#x25cf; Compatible</font></b>";
 		//$status[1] = "<b><font color=\"orange\">&#x25cf; Potentially Incompatible</font></b>";
 		//$status[2] = "<b><font color=\"red\">&#x25cf; Incompatible</font></b>";
 	  
 	if ( 'healthywp' == $column ) {
-		echo rankPlugin($textDomain);
+		//echo rankPlugin($textDomain);
 		//echo $status[array_rand($status, 1)];	  
 	  }
 	}
