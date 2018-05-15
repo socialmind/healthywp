@@ -2,30 +2,6 @@
 
 [![Gitter](https://badges.gitter.im/socialmind/healthywp.svg)](https://gitter.im/socialmind/healthywp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
-***
-
-### Breaking News: 
-### _HealthyWP is featured on Mozilla GLobal Sprint!_
-
-HealthyWP is featured on Mozilla Global Sprint 2018 (10th & 11th May). Join us and learn more about our project's vision. Your contribution can really make a difference and we will be thrilled to have you :)
-
-~ OFFICE HOURS ~
-
-_* click the links below to see the hours at your local timezone_
-
-- __Thursday May 10th, 2018:__ [10:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-10/10:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours)) - [17:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-10/17:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours))
-- __Friday May 11th, 2018:__ [10:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-11/10:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours)) - [17:00 UTC+3](http://arewemeetingyet.com/Athens/2018-05-11/17:00/HealthyWP%20-%20Mozilla%20Global%20Sprint%20(Office%20Hours))
-
-
-~ COMMUNICATION CHANNELS ~ 
-
-- Via Gitter at: https://gitter.im/socialmind/healthywp
-- Via Twitter by: (1) Tweets using #healthywp (2) DM @akritiko
-- Via e-mail at: kritikos@socialmind.gr
-- or Contribute directly to THIS Github Project
-
-***
-
 ![healthywp cover](http://apostolos.kritikos.me/wp-content/uploads/2018/05/2018-04-23_213018.0828970000.png)
 
 _* previously known as WordPress Plug-in Observatory_
