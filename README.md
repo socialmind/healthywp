@@ -78,7 +78,7 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 You can also contact Apostolos by e-mail (kritikos AT socialmind DOT gr) or on [twitter](http://www.twitter.com/akritiko).
 
-## Highlights
+## Press & Highlights
 
 - Read about HealthyWP to Mozilla Open Leaders' official [medium page](https://medium.com/read-write-participate/crowdsourcing-wordpress-experiences-for-healthier-wordpress-installations-1c0eb7fd607d). Special thanks to [Abby Cabunoc Mayes](https://twitter.com/abbycabs) for the interview.
 - HealthyWP was featured on [Mozilla Global Sprint 2018](https://www.mozillapulse.org/entry/640).
