@@ -1,7 +1,5 @@
 # HealthyWP*
 
-[![Gitter](https://badges.gitter.im/socialmind/healthywp.svg)](https://gitter.im/socialmind/healthywp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
-
 ![healthywp cover](http://apostolos.kritikos.me/wp-content/uploads/2018/05/2018-04-23_213018.0828970000.png)
 
 _* previously known as WordPress Plug-in Observatory_
