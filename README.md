@@ -80,5 +80,6 @@ You can also contact Apostolos by e-mail (kritikos AT socialmind DOT gr) or on [
 
 ## Highlights
 
+- Read about HealthyWP to Mozilla Open Leaders' official [medium page](https://medium.com/read-write-participate/crowdsourcing-wordpress-experiences-for-healthier-wordpress-installations-1c0eb7fd607d). Special thanks to [Abby Cabunoc Mayes](https://twitter.com/abbycabs) for the interview.
 - HealthyWP was featured on [Mozilla Global Sprint 2018](https://www.mozillapulse.org/entry/640).
 - HealthyWP was selected for the [5th round of Mozilla Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#wordpress-plugin-observatory) program.
