@@ -36,7 +36,7 @@ So if you have experience in back-end development, WordPress plug-in development
 
 Great! Non-tech contributors are equally valuable for an open source project since they can help with [a great deal of things](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)! 
 
-If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawyer, a WordPress advocate or user, please consider join us. You can really make a difference to our project's evolution.
+If you are a graphic designed, a UI/UX expert, a marketer, a translator, a lawyer, a WordPress advocate or user, please consider joining us. You can really make a difference to our project's evolution.
 
 ## Where to go next?
 
